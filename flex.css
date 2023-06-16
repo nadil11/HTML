@@ -1,0 +1,26 @@
+.item{
+    height: 200px;
+    width: 200px;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-red{
+    background-color: red;
+}
+
+.condianer{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+

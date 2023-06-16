@@ -1,0 +1,93 @@
+.container-fluid{
+    background-color: #636393;
+    height: 6rem;
+}
+
+.navbar-nav{
+    margin-left: 50rem;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h4{
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    font-family: ui-sans-serif;
+    position: absolute;
+    margin-left: 7rem;
+}
+
+.mid{
+    background-color: rgb(63, 167, 167);
+    padding: 14rem;
+    position: relative;
+    margin-top: -8px;
+    text-align: center;
+    height: 35rem;
+}
+
+.midmid{
+    margin-top: -9rem;
+}
+
+.portfolio{
+    color: #3e3a78;
+    margin-top: 2rem;
+    margin-left: 32rem;
+}
+
+.icon2{
+    margin-left: 6rem;
+}
+
+.grid{
+    margin-top: 3rem;
+}
+
+.allimage{
+    padding: 10rem;
+    margin-top: -6rem;
+}
+
+.cod2{
+    margin-top: 2rem;
+}
+
+.downmid{
+    background-color: rgb(63, 167, 167);
+    text-align: center;
+    height: 35rem;
+}
+
+.btn{
+    width: 13rem;
+    height: 65px;
+    margin-left: 11rem;
+    margin-top: 2rem;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 11px;
+}
+
+.btn:hover {
+    background-color: white;
+    transition: 1s;
+    color: black;
+}
+
+.para{
+    margin-top: 2rem;
+}
+
+.midall{
+    position: absolute;
+    margin-left: 5rem;
+    margin-top: 6rem;
+}
+
+.downhead{
+    font-family: auto;
+    margin-top: 2rem;
+    text-align: center;
+}

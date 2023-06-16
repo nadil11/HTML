@@ -1,0 +1,29 @@
+
+
+.cot1{
+    position: fixed;
+    background-color: wheat;
+}
+.nh1{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.sec2{
+    text-align: center;
+    background-color: #1bbc9b;
+    padding: 5rem;
+}
+
+h1{
+    font-size: 3.5rem;
+    color: white;
+    font-weight: bold;
+}
+
+p{
+    font-size: 2rem;
+    color: white;
+}

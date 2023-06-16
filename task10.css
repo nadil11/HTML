@@ -1,0 +1,139 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    padding: 1rem;
+    background-color: #2d3e50;
+}
+
+.nh1{
+    color: wheat;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.nav-link{
+    color: wheat;
+}
+
+.nav-link:hover{
+    color: blue;
+}
+
+.sec2{
+    text-align: center;
+    background-color: #1bbc9b;
+    padding-top: 9rem;
+    height: 40rem;
+}
+
+
+h1{
+    font-size: 3.5rem;
+    color: white;
+    font-weight: bold;
+}
+
+p{
+    font-size: 2rem;
+    color: white;
+}
+
+.sec3{
+    text-align: center;
+}
+
+
+.cod2{
+    margin-top: 2rem;
+}
+
+.about{
+    text-align: center;
+    margin-top: 3rem;
+    background-color: #1bbc9b;
+    height: 46rem;
+}
+
+.btn{
+    background: transparent;
+    border: solid white;
+    color: white;
+    padding: 1rem;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+    transition: 1s;
+}
+
+.aboutall{
+    width: 100%;
+    padding-top: 8rem;
+}
+
+.contact{
+    margin-top: 4rem;
+    width: 100%;
+}
+
+.conhead{
+    text-align: center;
+}
+
+#floatingInput{
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+footer{
+    
+    background-color: #2d3e50;
+    height: 18rem;
+    width: 100%;
+    align-items: center;
+}
+
+.contact1{
+    align-items: center;
+}
+
+h2{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.column1{
+    padding-top: 5rem;
+    
+}
+
+.column2{
+    padding-top: 5rem;
+    background-color: #2d3e50;
+    
+}
+
+.column3{
+    padding-top: 4rem;
+    background-color: #2d3e50;
+}
+
+.ficons{
+    font-size: 1rem;
+    
+}
+
+.ions{
+    border: solid white;
+    border-radius: 3rem;
+    padding: 1rem;
+
+}
+
+.ions:hover{
+    background-color: white;
+}
+
+

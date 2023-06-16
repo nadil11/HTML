@@ -1,0 +1,86 @@
+.condainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    
+}
+
+.bar1{
+    background-color: white;
+    border: 0px;
+    height: 30rem;
+    box-shadow: black 0px 0px 6px 0px;
+}
+
+
+
+.texts{
+    display: flex;
+}
+.btnicons{
+width: 14rem;
+height: 37px;
+border: none;
+background: transparent;
+margin-top: 3px;
+}
+
+.btnicons:hover{
+    color: white;
+    background-color: blue;
+    transition: 2s;
+
+}
+
+.imghead{
+    padding: 30px;
+}
+
+i{
+    margin-left: -8rem;
+    font-size: 11px;
+}
+
+
+
+.condainer2{
+    border: 0px solid;
+    box-shadow: 0px 0px 6px 0px black;
+    padding: 2rem;
+}
+
+.form2{
+    margin-left: 2rem;
+}
+
+.btnall{
+    display: flex;
+    margin-top: 20px;
+}
+
+
+.btn1{
+    background-color: beige;
+    color: black;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.btn1:hover{
+    background-color: blue;
+    color: white;
+}
+
+.btn2{
+    background-color: beige;
+                color: black;
+                padding: 7px;
+                border-radius: 7px;
+                margin-left: 6px;
+}
+
+
+.btn2:hover{
+    background-color: rgb(204, 48, 10);
+    color: white;   
+}

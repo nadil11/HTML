@@ -1,0 +1,53 @@
+.condainer{
+    position: relative;
+}
+
+h4{
+    margin-left: 7rem;
+    font-size: 20px;
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: #575050;
+}
+
+.nav{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 19rem;
+    margin-left: 47rem;
+    margin-top: -3rem;
+}
+
+.main{
+    position: relative;
+    margin-left: 7rem;
+    margin-top: 11rem;
+}
+
+.para{
+    font-family: math;
+    font-size: 14px;
+}
+
+.btn{
+    margin-top: 2rem;   
+}
+
+.images{
+    margin-left: 49rem;
+    position: absolute;
+    margin-top: -17rem;
+    height: 7rem;
+}
+
+.img1{
+    margin-left: -3rem;
+}
+
+.img2{
+    margin-top: -3rem;
+}
