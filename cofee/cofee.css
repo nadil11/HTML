@@ -1,0 +1,81 @@
+.nav1{
+    background-color: white;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    position: inherit;
+}
+
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    background-color: black;
+    color: white;
+    border-radius: 0.5rem;
+    transition: 1s;
+}
+
+.list{
+    margin-right: 22rem;
+    font-size: 0.9rem;
+}
+
+
+.btn1{
+    display: flex;
+
+}
+
+.sec2{
+    padding: 4rem;
+}
+
+.sec3{
+    margin-top: 3rem;
+    background-color: aliceblue;
+}
+
+.sec4{
+   background-color: black;
+   
+}
+
+.sec4img{
+    height: 26rem;
+}
+
+.secc4{
+    background-color: black;
+    margin-bottom: 1rem;
+}
+
+
+.sec6{
+   background: url('https://th.bing.com/th/id/OIP.MqJj32PiNbU9As3Y9-NJEAHaE0?w=273&h=180&c=7&r=0&o=5&pid=1.7') no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 100%;
+   font-size: 8rem;
+   text-align: center;
+   padding-top: 7rem;
+   margin-top: 5rem;
+}
+
+.d1{
+    background-color: aliceblue;
+    margin: 20px;
+}
+
+.f1{
+    background-color: black;
+    color: white;
+}
+
+h6{
+    font-weight: bolder;
+}
+
